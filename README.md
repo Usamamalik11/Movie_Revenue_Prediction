@@ -38,4 +38,4 @@ Following algorithms have been used for making predictions
 * XGBoost
 * LGBM
 * Catboost
- Methods such as gridsearch cv were applied for tuning and for finding the best model possible.
+Methods such as gridsearch cv were applied for tuning and for finding the best model possible.
